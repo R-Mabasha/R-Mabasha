@@ -17,7 +17,7 @@ I build production-grade agentic workflows, LLM orchestration pipelines on AWS B
 My work focuses on bridging the gap between modern generative AI and complex transactional backends:
 - **Agentic AI in Enterprise:** Developed end-to-end agents converting unstructured business inputs into structured functional specifications compliant with **SAP WRICEF development standards**.
 - **Hybrid & Graph Retrieval:** Architected [`graphrag-atlas`](https://github.com/R-Mabasha/graphrag-atlas) (published on PyPI), unifying Lucene BM25, HNSW dense vectors, AST hierarchies, and bounded `$graphLookup` inside a single MongoDB Atlas cluster to avoid multi-database sprawl.
-- **Enterprise Integration:** Bridging cloud runtimes with SAP S/4HANA using RFC-based extraction ([`Node-RFC-Sap-connector`](https://github.com/R-Mabasha/Node-RFC-Sap-connector)), SAP Integration Suite / CPI, and SAP BTP / Cloud Foundry.
+- **Enterprise Integration:** Bridging cloud runtimes with SAP S/4HANA landscapes, SAP Integration Suite / CPI, and SAP BTP / Cloud Foundry.
 
 ---
 
@@ -56,17 +56,6 @@ My work focuses on bridging the gap between modern generative AI and complex tra
     </tr>
     <tr>
       <td valign="top">
-        <a href="https://github.com/R-Mabasha/Node-RFC-Sap-connector"><strong>Node-RFC-Sap-connector</strong></a><br />
-        <img src="https://img.shields.io/badge/Enterprise-SAP--S%2F4HANA-0070F3?style=flat-square" alt="SAP" />
-        <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square" alt="TypeScript" />
-      </td>
-      <td>
-        <strong>High-Throughput SAP RFC Connector Bridge</strong><br />
-        TypeScript enterprise connector enabling cloud microservices and Node.js runtimes to execute bidirectional remote function calls (RFC) directly against on-premise and private-cloud SAP ECC / S/4HANA landscapes.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
         <a href="https://github.com/R-Mabasha/Multi-Agent-Mcp"><strong>Multi-Agent-Mcp</strong></a><br />
         <img src="https://img.shields.io/badge/Agents-Nexus-orange?style=flat-square" alt="Agents" />
         <img src="https://img.shields.io/badge/Isolation-Git--Sandboxed-blue?style=flat-square" alt="Git Sandbox" />
@@ -74,6 +63,17 @@ My work focuses on bridging the gap between modern generative AI and complex tra
       <td>
         <strong>Git-Sandboxed Multi-Agent Orchestration Nexus</strong><br />
         A model-agnostic MCP server enabling teams of autonomous coding agents to run isolated experiments on branched git worktrees with strict permission gates and automated reconciliation.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/R-Mabasha/Vision-Stream"><strong>Vision-Stream</strong></a><br />
+        <img src="https://img.shields.io/badge/Hackathon-Gemini%203-blue?style=flat-square" alt="Gemini 3" />
+        <img src="https://img.shields.io/badge/Framework-React%2019%20%2B%20GenAI-3178C6?style=flat-square" alt="React 19" />
+      </td>
+      <td>
+        <strong>Real-Time Multimodal AI Stream Processing</strong><br />
+        Built for the Gemini 3 Hackathon. Processes live multi-modal video and sensor streams with low-latency LLM streaming, automated event classification, and responsive modern UI components.
       </td>
     </tr>
   </tbody>
@@ -101,7 +101,7 @@ Practical engineering insights drawn from building production enterprise AI syst
   </tr>
   <tr>
     <td><strong>Enterprise & SAP</strong></td>
-    <td>SAP S/4HANA Transformation, WRICEF Documentation Standards, SAP RFC Extraction, SAP Integration Suite / CPI, SAP BTP, Cloud Foundry, ITIL v4 Fundamentals</td>
+    <td>SAP S/4HANA Transformation, WRICEF Documentation Standards, SAP Integration Suite / CPI, SAP BTP, Cloud Foundry, ITIL v4 Fundamentals</td>
   </tr>
   <tr>
     <td><strong>Languages</strong></td>
