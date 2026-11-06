@@ -3,10 +3,12 @@
 **Associate Engineer at KTern.AI** · *Chennai, India*  
 Specializing in **Agentic AI**, **LLM Systems Engineering**, and **Enterprise SAP S/4HANA Transformation**.
 
+[![Interactive Portfolio](https://img.shields.io/badge/🌐_Explore_Interactive_Portfolio-r--mabasha.github.io%2FMabasha--Portfolio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=09090b)](https://r-mabasha.github.io/Mabasha-Portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mabasha%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabasha-r/)
 [![PyPI](https://img.shields.io/badge/PyPI-graphrag--atlas-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/graphrag-atlas/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://coders2345.github.io/Mabasha-Portfolio)
 [![Email](https://img.shields.io/badge/Email-mabasham52%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mabasham52@gmail.com)
+
+> 💡 **Looking for my live portfolio?** Explore interactive architecture diagrams, live demos, and technical case studies at **[r-mabasha.github.io/Mabasha-Portfolio](https://r-mabasha.github.io/Mabasha-Portfolio/)**.
 
 ---
 
@@ -126,6 +128,7 @@ Practical engineering insights drawn from building production enterprise AI syst
 
 ## 📬 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/mabasha-r](https://www.linkedin.com/in/mabasha-r/)
-- **Interactive Portfolio:** [coders2345.github.io/Mabasha-Portfolio](https://coders2345.github.io/Mabasha-Portfolio)
-- **Email:** [mabasham52@gmail.com](mailto:mabasham52@gmail.com)
+- 🌐 **Interactive Portfolio:** [r-mabasha.github.io/Mabasha-Portfolio](https://r-mabasha.github.io/Mabasha-Portfolio/)
+- 💼 **LinkedIn:** [linkedin.com/in/mabasha-r](https://www.linkedin.com/in/mabasha-r/)
+- 📦 **PyPI:** [pypi.org/project/graphrag-atlas](https://pypi.org/project/graphrag-atlas/)
+- ✉️ **Email:** [mabasham52@gmail.com](mailto:mabasham52@gmail.com)
