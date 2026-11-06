@@ -28,7 +28,7 @@ I build at the intersection of **probabilistic foundation models** and **determi
 
 Foundation models excel at reasoning and synthesis, but enterprise systems of record—particularly complex ERP backends like **SAP S/4HANA**—demand absolute mathematical consistency, strict audit trails, and deterministic transactional boundaries. My work tackles the core failure modes of generative AI in production:
 
-1. **Eliminating Stochastic Hallucination in Enterprise Specifications:** Building multi-agent verification compilers on AWS Bedrock (Claude 3.5 Sonnet) that synthesize conversational business requirements into formally consistent, audit-grade **SAP WRICEF** architectural specifications.
+1. **Eliminating Stochastic Hallucination in Enterprise Specifications:** Building multi-agent verification compilers on AWS Bedrock that synthesize conversational business requirements into formally consistent, audit-grade **SAP WRICEF** architectural specifications.
 2. **Defeating Multi-Database Sprawl in Retrieval:** Author of [`graphrag-atlas`](https://github.com/R-Mabasha/graphrag-atlas) (published on PyPI). Rather than orchestrating fragile pipelines across separate vector databases, search indices, and graph databases, I engineer unified single-store architectures combining lexical BM25, dense HNSW vectors, and bounded property graph traversals with built-in circuit breakers against super-node latency spikes.
 3. **Protocol-Driven Autonomous Execution:** Leveraging the **Model Context Protocol (MCP)** and git worktree isolation to construct sandboxed multi-agent execution environments capable of parallel experimentation, state persistence, and deterministic reconciliation.
 
@@ -39,7 +39,7 @@ Foundation models excel at reasoning and synthesis, but enterprise systems of re
 ```
                                     ┌────────────────────────────────────────────────────────┐
                                     │               Autonomous Agent Runtimes                │
-                                    │    (AWS Bedrock · Claude 3.5 Sonnet · Guardrails)      │
+                                    │        (AWS Bedrock · Frontier LLMs · Guardrails)      │
                                     └──────────────────────────┬─────────────────────────────┘
                                                                │
                                   ┌────────────────────────────┴───────────────────────────┐
@@ -61,8 +61,8 @@ Foundation models excel at reasoning and synthesis, but enterprise systems of re
 ```
 
 ### 1. Autonomous Agent Specification Compilers
-- **Deterministic Requirement Synthesis:** Architected production-grade agentic reasoning loops that ingest unstructured enterprise dialogues and generate end-to-end, audit-grade SAP WRICEF functional specifications.
-- **Verification Loops & Schema Enforcement:** Implemented multi-stage agent validation (spec-task & spec-verify topologies) that enforce schema compliance, eliminate hallucinated transaction codes/tables, and compress specification turnaround by >60%.
+- **Deterministic Requirement Synthesis:** Architected production-grade agentic reasoning loops on AWS Bedrock that ingest unstructured enterprise dialogues and generate end-to-end, audit-grade SAP WRICEF functional specifications.
+- **Verification Loops & Schema Enforcement:** Implemented multi-stage agent validation that enforces schema compliance, eliminates hallucinated transaction codes/tables, and compresses specification turnaround by >60%.
 
 ### 2. Single-Store Hybrid GraphRAG & Knowledge Topology
 - **`graphrag-atlas` Engine:** Creator and author of the open-source PyPI package that eliminates database sprawl by embedding hybrid search and dynamic graph traversal inside a single Atlas datastore.
@@ -76,6 +76,23 @@ Foundation models excel at reasoning and synthesis, but enterprise systems of re
 ### 4. Mission-Critical ERP Modernization (SAP S/4HANA)
 - **Enterprise Integration Fabrics:** Engineered resilient integration layers connecting modern cloud runtimes with SAP S/4HANA backends, RFC-based extraction pipelines, and SAP Integration Suite / Cloud Platform Integration (CPI).
 - **Transformation Tooling:** Automated SAP landscape assessment workflows, data lineage tracing, and cloud-native service deployments on SAP BTP / Cloud Foundry.
+
+---
+
+## 💼 Professional Experience & Career Milestones
+
+- **Associate Engineer** · **KTern.AI**  
+  *Jul 2025 – Present · Chennai, Tamil Nadu, India (Full-time)*  
+  - Engineered end-to-end autonomous LLM agents on AWS Bedrock converting unstructured user requirements into structured functional specification documents compliant with enterprise WRICEF standards.
+  - Architected production prompt management and orchestration workflows across AWS (Bedrock, S3) with automated guardrails and schema validation.
+  - Built custom Model Context Protocol (MCP) servers enabling agentic external tool execution, state management, and enterprise data grounding.
+  - Integrated RFC-based enterprise data extraction pipelines and SAP Integration Suite / CPI endpoints for S/4HANA transformation projects.
+
+- **Full stack Techno Functional Intern** · **KaarTech**  
+  *Jan 2025 – Jul 2025 · Chennai, Tamil Nadu, India (Internship)*  
+  - Engineered responsive full-stack features and API integrations using TypeScript, React, and Python backend services for enterprise client deliverables.
+  - Collaborated across technical and functional consulting workstreams to translate business requirements into architecture specifications and clean interfaces.
+  - Gained hands-on techno-functional exposure to enterprise ERP processes, data flows, and system integration patterns.
 
 ---
 
@@ -167,7 +184,7 @@ Practical architectural insights drawn from building production enterprise AI sy
 <table>
   <tr>
     <td width="26%"><strong>Autonomous Agent Systems</strong></td>
-    <td>Multi-Agent Orchestration, AWS Bedrock, Claude 3.5 Sonnet, Model Context Protocol (MCP), Prompt Compilers & Guardrails, Deterministic JSON Schemas, LangChain, Tool-Use Fabrics</td>
+    <td>Multi-Agent Orchestration, AWS Bedrock, Frontier Foundation Models, Model Context Protocol (MCP), Prompt Compilers & Guardrails, Deterministic JSON Schemas, LangChain, Tool-Use Fabrics</td>
   </tr>
   <tr>
     <td><strong>Knowledge Topology & RAG</strong></td>
@@ -189,7 +206,7 @@ Practical architectural insights drawn from building production enterprise AI sy
 
 - 🥇 **National Champion (1st Place) — Smart India Hackathon 2023**  
   Awarded ₹1,00,000 cash prize by the Ministry of Coal, Government of India, solving national problem statement 1313 among 1,000+ top engineering university teams at The National Institute of Engineering, Mysuru.
-- ⭐ **Star of the Month — KTern.AI (2024)**  
+- ⭐ **Star of the Month — KTern.AI (2025)**  
   Conferred by executive leadership for rapid technical execution and pioneering the automated WRICEF functional specification synthesis engine.
 - 🏅 **Grand Finalist — Smart India Hackathon 2022**  
   Ranked among top national teams in India's flagship 36-hour hackathon, architecting scalable digital governance software.
